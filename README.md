@@ -9,7 +9,10 @@
 - **Carlos Vega Lemus:** 2 exercises
 - **Xinyun Wang:** 2 exercises
 
-This project divides **18 SQL exercises** from Chapters 4 and 5 of our study material. The exercises are evenly distributed among **7 team members**, with each member responsible for completing **2-3 exercises**.
+## PHW# 3 Assignments:  **The chapter examples are for reinforcement. Below is what you are creating from your SQL knowledge, and the 10 propositions are your creativity based upon the material in chapters 4 and 5.  
+
+## - Each member will showcase all 10 of their propositions and queries in individual SQL notebook in Azure Data Studio with a Markdown for the proposition and Functional specification to build your proposition  for the  or DBeaver.
+## - Each group member will explain their top 10 propositions and query solutions.
 
 ### **Chapter 4 - Subqueries** (10 Exercises)
 1. **Gargiullo, Daniel**  
