@@ -1,4 +1,5 @@
-![Banner Image]([https://your-image-url.com](https://www.slidekit.com/wp-content/uploads/2024/02/Google-Slide-Background-Simple.jpg))
+![Banner Image](https://www.slidekit.com/wp-content/uploads/2024/02/Google-Slide-Background-Simple.jpg)
+
 ## PHW #3 Chapter 4 & 5
 
 ### **Group #2 Members:**
