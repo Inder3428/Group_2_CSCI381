@@ -1,7 +1,7 @@
 ## PHW #3C Chapter 6
 ## Group #2 
 ### GitHub links:
-- Inderpreet Singh: https://github.com/Inder3428/Group_2_CSCI381/tree/main/Singh_Inderpreet/PHW3C_Singh_Inderpreet
+- Inderpreet Singh: [https://github.com/Inder3428/Group_2_CSCI381/tree/main/Singh_Inderpreet/PHW3C_Singh_Inderpreet](https://github.com/Inder3428/Group_2_CSCI381/tree/main/Singh_Inderpreet/PHW3S_Singh_Inderpreet)
 - jascharan Singh: https://github.com/Inder3428/Group_2_CSCI381/tree/main/Jascharan_Singh/JascharanSingh_2_PHW_3S
 - Rahib Khandaker: https://github.com/Inder3428/Group_2_CSCI381/tree/main/Rahib%20Khandaker/PHW3S_Rahib_Khandaker
 - Hedi Luna: https://github.com/Inder3428/Group_2_CSCI381/tree/main/Heidi%20Luna/PHW3S
